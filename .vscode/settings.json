@@ -1,0 +1,11 @@
+{
+  "xml.fileAssociations": [
+    {
+      "systemId": "c:\\_Python\\tudo\\backend\\appmovie\\schema\\tns.xsd",
+      "pattern": "**/**/*.xml"
+    }
+  ],
+  "files.exclude": {
+    "schema": true
+  }
+}
